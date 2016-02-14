@@ -317,6 +317,14 @@ module.exports = [
     source: "https://raw.githubusercontent.com/evandroeisinger/imago.js/master/src/imago.js"
   },
   {
+    name: "Carburator",
+    github: "jccazeaux/carburator",
+    tags: ["dependency", "injection", "asynchronous", "promise", "di", "container" ],
+    description: "Asynchronous dependency injection framework. Adaptable to any Promise implementation.",
+    url: "http://jccazeaux.github.io/carburator",
+    source: "https://raw.githubusercontent.com/jccazeaux/carburator/master/src/carburator.js"
+  },
+  {
     name: "Euclid",
     tags: ["euclid","algorithm","greatest","common","divisor","gcd"],
     description: "Recursive Euclidean algorithm for finding the greatest common divisor of two numbers.",
